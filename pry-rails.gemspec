@@ -21,6 +21,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "pry", ">= 0.10.4"
-  s.add_development_dependency "appraisal"
   s.add_development_dependency "minitest"
 end
